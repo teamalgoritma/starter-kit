@@ -9,7 +9,11 @@ You must believe that **you can do it, you can learn data science as well!**
   <img src="img/mindset.webp" width="300" title="Mindset is Everything">
 </p>
 
-# Intro to Programming 
+# What is Programming?
+Before we dive deeper, let's watch this video!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dU1xS07N-FA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Programming means writing instructions for a computer to perform desired actions or tasks. 
 
 For writing instruction, we need a language, as humans talk to each other. Because of the computer can't understand our natural language—such as English, Bahasa Indonesia—we need to communicate with the computer using a language that the computer understands, **programming language**. 
