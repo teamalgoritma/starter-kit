@@ -12,7 +12,7 @@ You must believe that **you can do it, you can learn data science as well!**
 # What is Programming?
 Before we dive deeper, let's watch this video!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dU1xS07N-FA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Code Stars](https://img.youtube.com/vi/dU1xS07N-FA/0.jpg)](https://www.youtube.com/watch?v=dU1xS07N-FA)
 
 Programming means writing instructions for a computer to perform desired actions or tasks. 
 
