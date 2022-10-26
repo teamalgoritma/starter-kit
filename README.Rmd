@@ -1,7 +1,6 @@
 ---
 title: "Starter Kit for Data Science (R and Python)"
-author: "Algoritma | Fiqey Indriati Eka Sari"
-date: "2022-10-24"
+author: "Algoritma Data Science School"
 output:
   html_document:
     css: style.css
