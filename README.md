@@ -263,7 +263,7 @@ DataFrame is a **data structure that organizes data into a 2-dimensional table o
 
 **R**
 
-For creating a DataFrame in R, we can `use data.frame()`
+For creating a DataFrame in R, we can use `data.frame()`
 
 ``` r
 iklan <- data.frame(Channel=c("Youtube", "Instagram", "Facebook", "Twitter"), budget=c(8.0, 4.5, 4.3, 2.5))
